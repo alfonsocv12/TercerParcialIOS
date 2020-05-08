@@ -1,0 +1,6 @@
+module Pods_TercerParcialAlfonsoVillalobos_TercerParcialAlfonsoVillalobosUITests {
+  umbrella header "Pods-TercerParcialAlfonsoVillalobos-TercerParcialAlfonsoVillalobosUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

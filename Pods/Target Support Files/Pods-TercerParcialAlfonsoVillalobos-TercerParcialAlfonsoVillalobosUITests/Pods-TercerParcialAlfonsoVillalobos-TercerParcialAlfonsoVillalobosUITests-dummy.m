@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_TercerParcialAlfonsoVillalobos_TercerParcialAlfonsoVillalobosUITests : NSObject
+@end
+@implementation PodsDummy_Pods_TercerParcialAlfonsoVillalobos_TercerParcialAlfonsoVillalobosUITests
+@end

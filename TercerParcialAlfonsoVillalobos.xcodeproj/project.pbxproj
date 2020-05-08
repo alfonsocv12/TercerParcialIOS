@@ -15,6 +15,10 @@
 		1826FCC02464B2E500C01ED6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1826FCBE2464B2E500C01ED6 /* LaunchScreen.storyboard */; };
 		1826FCCB2464B2E500C01ED6 /* TercerParcialAlfonsoVillalobosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1826FCCA2464B2E500C01ED6 /* TercerParcialAlfonsoVillalobosTests.swift */; };
 		1826FCD62464B2E500C01ED6 /* TercerParcialAlfonsoVillalobosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1826FCD52464B2E500C01ED6 /* TercerParcialAlfonsoVillalobosUITests.swift */; };
+		18ED2715246523F100511521 /* DatosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18ED2714246523F100511521 /* DatosViewController.swift */; };
+		4396B44756BB7571522AAB11 /* libPods-TercerParcialAlfonsoVillalobos-TercerParcialAlfonsoVillalobosUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 24114217B4D0C206618C7BD1 /* libPods-TercerParcialAlfonsoVillalobos-TercerParcialAlfonsoVillalobosUITests.a */; };
+		4E005D8DB58EF751AC3634BA /* libPods-TercerParcialAlfonsoVillalobosTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EAAB4C9CEA79E42EEEBAC124 /* libPods-TercerParcialAlfonsoVillalobosTests.a */; };
+		D38F0C71560A5EA444275B49 /* libPods-TercerParcialAlfonsoVillalobos.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F8F67B5161D5982C1C68B13A /* libPods-TercerParcialAlfonsoVillalobos.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		153D9320A850F40885B4D493 /* Pods-TercerParcialAlfonsoVillalobos.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TercerParcialAlfonsoVillalobos.release.xcconfig"; path = "Target Support Files/Pods-TercerParcialAlfonsoVillalobos/Pods-TercerParcialAlfonsoVillalobos.release.xcconfig"; sourceTree = "<group>"; };
 		1826FCB02464B2E400C01ED6 /* TercerParcialAlfonsoVillalobos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TercerParcialAlfonsoVillalobos.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1826FCB32464B2E400C01ED6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1826FCB52464B2E400C01ED6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +54,15 @@
 		1826FCD12464B2E500C01ED6 /* TercerParcialAlfonsoVillalobosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TercerParcialAlfonsoVillalobosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1826FCD52464B2E500C01ED6 /* TercerParcialAlfonsoVillalobosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TercerParcialAlfonsoVillalobosUITests.swift; sourceTree = "<group>"; };
 		1826FCD72464B2E500C01ED6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18ED2714246523F100511521 /* DatosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatosViewController.swift; sourceTree = "<group>"; };
+		24114217B4D0C206618C7BD1 /* libPods-TercerParcialAlfonsoVillalobos-TercerParcialAlfonsoVillalobosUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TercerParcialAlfonsoVillalobos-TercerParcialAlfonsoVillalobosUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		28440ABCADABC731D1CF0734 /* Pods-TercerParcialAlfonsoVillalobosTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TercerParcialAlfonsoVillalobosTests.release.xcconfig"; path = "Target Support Files/Pods-TercerParcialAlfonsoVillalobosTests/Pods-TercerParcialAlfonsoVillalobosTests.release.xcconfig"; sourceTree = "<group>"; };
+		5C6D95D3D2514C192AB1BAD5 /* Pods-TercerParcialAlfonsoVillalobos-TercerParcialAlfonsoVillalobosUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TercerParcialAlfonsoVillalobos-TercerParcialAlfonsoVillalobosUITests.release.xcconfig"; path = "Target Support Files/Pods-TercerParcialAlfonsoVillalobos-TercerParcialAlfonsoVillalobosUITests/Pods-TercerParcialAlfonsoVillalobos-TercerParcialAlfonsoVillalobosUITests.release.xcconfig"; sourceTree = "<group>"; };
+		635D95196CDC6671B9523B29 /* Pods-TercerParcialAlfonsoVillalobos-TercerParcialAlfonsoVillalobosUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TercerParcialAlfonsoVillalobos-TercerParcialAlfonsoVillalobosUITests.debug.xcconfig"; path = "Target Support Files/Pods-TercerParcialAlfonsoVillalobos-TercerParcialAlfonsoVillalobosUITests/Pods-TercerParcialAlfonsoVillalobos-TercerParcialAlfonsoVillalobosUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		A9CAE44B84FEDED8A489B23A /* Pods-TercerParcialAlfonsoVillalobosTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TercerParcialAlfonsoVillalobosTests.debug.xcconfig"; path = "Target Support Files/Pods-TercerParcialAlfonsoVillalobosTests/Pods-TercerParcialAlfonsoVillalobosTests.debug.xcconfig"; sourceTree = "<group>"; };
+		EAAB4C9CEA79E42EEEBAC124 /* libPods-TercerParcialAlfonsoVillalobosTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TercerParcialAlfonsoVillalobosTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F02624545C5106B6CA953103 /* Pods-TercerParcialAlfonsoVillalobos.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TercerParcialAlfonsoVillalobos.debug.xcconfig"; path = "Target Support Files/Pods-TercerParcialAlfonsoVillalobos/Pods-TercerParcialAlfonsoVillalobos.debug.xcconfig"; sourceTree = "<group>"; };
+		F8F67B5161D5982C1C68B13A /* libPods-TercerParcialAlfonsoVillalobos.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TercerParcialAlfonsoVillalobos.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +70,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D38F0C71560A5EA444275B49 /* libPods-TercerParcialAlfonsoVillalobos.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +78,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E005D8DB58EF751AC3634BA /* libPods-TercerParcialAlfonsoVillalobosTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,6 +86,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4396B44756BB7571522AAB11 /* libPods-TercerParcialAlfonsoVillalobos-TercerParcialAlfonsoVillalobosUITests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,6 +100,8 @@
 				1826FCC92464B2E500C01ED6 /* TercerParcialAlfonsoVillalobosTests */,
 				1826FCD42464B2E500C01ED6 /* TercerParcialAlfonsoVillalobosUITests */,
 				1826FCB12464B2E400C01ED6 /* Products */,
+				79E8F846F2ACA0DB140FFBFA /* Pods */,
+				C44B119EEFB92F825C0B501E /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -106,6 +125,7 @@
 				1826FCBC2464B2E500C01ED6 /* Assets.xcassets */,
 				1826FCBE2464B2E500C01ED6 /* LaunchScreen.storyboard */,
 				1826FCC12464B2E500C01ED6 /* Info.plist */,
+				18ED2714246523F100511521 /* DatosViewController.swift */,
 			);
 			path = TercerParcialAlfonsoVillalobos;
 			sourceTree = "<group>";
@@ -128,6 +148,29 @@
 			path = TercerParcialAlfonsoVillalobosUITests;
 			sourceTree = "<group>";
 		};
+		79E8F846F2ACA0DB140FFBFA /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				F02624545C5106B6CA953103 /* Pods-TercerParcialAlfonsoVillalobos.debug.xcconfig */,
+				153D9320A850F40885B4D493 /* Pods-TercerParcialAlfonsoVillalobos.release.xcconfig */,
+				635D95196CDC6671B9523B29 /* Pods-TercerParcialAlfonsoVillalobos-TercerParcialAlfonsoVillalobosUITests.debug.xcconfig */,
+				5C6D95D3D2514C192AB1BAD5 /* Pods-TercerParcialAlfonsoVillalobos-TercerParcialAlfonsoVillalobosUITests.release.xcconfig */,
+				A9CAE44B84FEDED8A489B23A /* Pods-TercerParcialAlfonsoVillalobosTests.debug.xcconfig */,
+				28440ABCADABC731D1CF0734 /* Pods-TercerParcialAlfonsoVillalobosTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		C44B119EEFB92F825C0B501E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F8F67B5161D5982C1C68B13A /* libPods-TercerParcialAlfonsoVillalobos.a */,
+				24114217B4D0C206618C7BD1 /* libPods-TercerParcialAlfonsoVillalobos-TercerParcialAlfonsoVillalobosUITests.a */,
+				EAAB4C9CEA79E42EEEBAC124 /* libPods-TercerParcialAlfonsoVillalobosTests.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -135,6 +178,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1826FCDA2464B2E500C01ED6 /* Build configuration list for PBXNativeTarget "TercerParcialAlfonsoVillalobos" */;
 			buildPhases = (
+				E9BC181D96F4A256E6426F69 /* [CP] Check Pods Manifest.lock */,
 				1826FCAC2464B2E400C01ED6 /* Sources */,
 				1826FCAD2464B2E400C01ED6 /* Frameworks */,
 				1826FCAE2464B2E400C01ED6 /* Resources */,
@@ -152,6 +196,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1826FCDD2464B2E500C01ED6 /* Build configuration list for PBXNativeTarget "TercerParcialAlfonsoVillalobosTests" */;
 			buildPhases = (
+				5787D64E05C027DF1BCC5546 /* [CP] Check Pods Manifest.lock */,
 				1826FCC22464B2E500C01ED6 /* Sources */,
 				1826FCC32464B2E500C01ED6 /* Frameworks */,
 				1826FCC42464B2E500C01ED6 /* Resources */,
@@ -170,6 +215,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1826FCE02464B2E500C01ED6 /* Build configuration list for PBXNativeTarget "TercerParcialAlfonsoVillalobosUITests" */;
 			buildPhases = (
+				9EB8F55353B96D6A8AC59F60 /* [CP] Check Pods Manifest.lock */,
 				1826FCCD2464B2E500C01ED6 /* Sources */,
 				1826FCCE2464B2E500C01ED6 /* Frameworks */,
 				1826FCCF2464B2E500C01ED6 /* Resources */,
@@ -254,6 +300,75 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		5787D64E05C027DF1BCC5546 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-TercerParcialAlfonsoVillalobosTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9EB8F55353B96D6A8AC59F60 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-TercerParcialAlfonsoVillalobos-TercerParcialAlfonsoVillalobosUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E9BC181D96F4A256E6426F69 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-TercerParcialAlfonsoVillalobos-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		1826FCAC2464B2E400C01ED6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -261,6 +376,7 @@
 			files = (
 				1826FCB82464B2E400C01ED6 /* ViewController.swift in Sources */,
 				1826FCB42464B2E400C01ED6 /* AppDelegate.swift in Sources */,
+				18ED2715246523F100511521 /* DatosViewController.swift in Sources */,
 				1826FCB62464B2E400C01ED6 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -432,6 +548,7 @@
 		};
 		1826FCDB2464B2E500C01ED6 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = F02624545C5106B6CA953103 /* Pods-TercerParcialAlfonsoVillalobos.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -450,6 +567,7 @@
 		};
 		1826FCDC2464B2E500C01ED6 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 153D9320A850F40885B4D493 /* Pods-TercerParcialAlfonsoVillalobos.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -468,6 +586,7 @@
 		};
 		1826FCDE2464B2E500C01ED6 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A9CAE44B84FEDED8A489B23A /* Pods-TercerParcialAlfonsoVillalobosTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -490,6 +609,7 @@
 		};
 		1826FCDF2464B2E500C01ED6 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 28440ABCADABC731D1CF0734 /* Pods-TercerParcialAlfonsoVillalobosTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -512,6 +632,7 @@
 		};
 		1826FCE12464B2E500C01ED6 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 635D95196CDC6671B9523B29 /* Pods-TercerParcialAlfonsoVillalobos-TercerParcialAlfonsoVillalobosUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -532,6 +653,7 @@
 		};
 		1826FCE22464B2E500C01ED6 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5C6D95D3D2514C192AB1BAD5 /* Pods-TercerParcialAlfonsoVillalobos-TercerParcialAlfonsoVillalobosUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
